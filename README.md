@@ -1,3 +1,3 @@
 # UX-prototypes
 
-<a href="advanced-search-prototype.html">Advanced Search Prototype</a>
+<a href="akcrittenden.github.io/ux-prototypes/advanced-search-prototype.html">Advanced Search Prototype</a>
